@@ -25,7 +25,7 @@ jobs:
           python-version: "3.10.x"
 
       - name: Run Update Readmes
-        run: python auto_readme.py -s "bw" -d "imagerepo"
+        run: python auto_readme.py -s "diiivoycolor" -d "imagerepo"
 
       - name: Check Diff
         id: verify_diff
