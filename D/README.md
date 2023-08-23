@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY Color (diiivoycolor) - D (523 Images)
+# Plex Meta Manager People - DIIIVOY Color (diiivoycolor) - D (524 Images)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/D/Images/D.L.%20Hughley.jpg)
 * [D.R. Nanayakkara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/D/Images/D.R.%20Nanayakkara.jpg)
@@ -496,6 +496,7 @@
 * [Drew Michael](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/D/Images/Drew%20Michael.jpg)
 * [Drew Pearce](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/D/Images/Drew%20Pearce.jpg)
 * [Drew Tanner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/D/Images/Drew%20Tanner.jpg)
+* [Dua Lipa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/D/Images/Dua%20Lipa.jpg)
 * [Duane Henry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/D/Images/Duane%20Henry.jpg)
 * [Duccio Tessari](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/D/Images/Duccio%20Tessari.jpg)
 * [Dudley Moore](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/D/Images/Dudley%20Moore.jpg)
