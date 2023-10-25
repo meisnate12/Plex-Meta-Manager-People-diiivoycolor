@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY Color (diiivoycolor) - P (319 Images)
+# Plex Meta Manager People - DIIIVOY Color (diiivoycolor) - P (320 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/P/Images/%21_Images_grid.jpg)
 * [P.H. Moriarty](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/P/Images/P.H.%20Moriarty.jpg)
@@ -271,6 +271,7 @@
 * [Philip Winchester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/P/Images/Philip%20Winchester.jpg)
 * [Philippa Boyens](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/P/Images/Philippa%20Boyens.jpg)
 * [Philippe Carcassonne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/P/Images/Philippe%20Carcassonne.jpg)
+* [Philippe Lacheau](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/P/Images/Philippe%20Lacheau.jpg)
 * [Philippe Nahon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/P/Images/Philippe%20Nahon.jpg)
 * [Philippe Rousselet](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/P/Images/Philippe%20Rousselet.jpg)
 * [Phill Jupitus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/P/Images/Phill%20Jupitus.jpg)
