@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY Color (diiivoycolor) - Y (35 Images)
+# Plex Meta Manager People - DIIIVOY Color (diiivoycolor) - Y (36 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/%21_Images_grid.jpg)
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
@@ -8,6 +8,7 @@
 * [Yaphet Kotto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yaphet%20Kotto.jpg)
 * [Yara Martinez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yara%20Martinez.jpg)
 * [Yariv Lerner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yariv%20Lerner.jpg)
+* [Yash Chopra](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yash%20Chopra.jpg)
 * [Yasha Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yasha%20Jackson.jpg)
 * [Yasiin Bey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yasiin%20Bey.jpg)
 * [Yasmeen Fletcher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yasmeen%20Fletcher.jpg)
