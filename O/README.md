@@ -1,4 +1,5 @@
 # Plex Meta Manager People - DIIIVOY Color (diiivoycolor) - O (78 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/O/Images/%21_Images_grid.jpg)
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)

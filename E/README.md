@@ -1,4 +1,5 @@
 # Plex Meta Manager People - DIIIVOY Color (diiivoycolor) - E (312 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/E/Images/%21_Images_grid.jpg)
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/E/Images/E.G.%20Marshall.jpg)

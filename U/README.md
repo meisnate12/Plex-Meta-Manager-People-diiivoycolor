@@ -1,4 +1,5 @@
 # Plex Meta Manager People - DIIIVOY Color (diiivoycolor) - U (15 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/U/Images/%21_Images_grid.jpg)
 * [Uday Krishna](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/U/Images/Uday%20Krishna.jpg)

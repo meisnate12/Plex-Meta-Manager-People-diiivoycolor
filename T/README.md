@@ -1,4 +1,5 @@
 # Plex Meta Manager People - DIIIVOY Color (diiivoycolor) - T (405 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/T/Images/%21_Images_grid.jpg)
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/T/Images/T.%20J.%20Miller.jpg)
