@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY Color (diiivoycolor) - Y (36 Images)
+# Plex Meta Manager People - DIIIVOY Color (diiivoycolor) - Y (37 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
@@ -34,6 +34,7 @@
 * [Yun Seung-hun](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yun%20Seung-hun.jpg)
 * [Yuri Kolokolnikov](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yuri%20Kolokolnikov.jpg)
 * [Yuri Lowenthal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yuri%20Lowenthal.jpg)
+* [Yutaka Nakano](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yutaka%20Nakano.jpg)
 * [Yvetta Fisher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yvetta%20Fisher.jpg)
 * [Yvette Nicole Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yvette%20Nicole%20Brown.jpg)
 * [Yvonne Shima](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoycolor/master/Y/Images/Yvonne%20Shima.jpg)
